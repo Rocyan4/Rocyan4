@@ -1,6 +1,6 @@
-### Hi there 👋
+### Seja bem-vindo 👋
 
-Sou formado em Engenharia de Produção, comecei minha jornada em python em dezembro de 2017
+
 
 **Entre em contato:**
 [linkedin](https://www.linkedin.com/in/rocyanfan/)
