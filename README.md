@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 ![GitHub Logo](C:\Users\rocya\Desktop\0)
 
 
-🎓
+🎓 Engenharia de produção
 
 🧠
 
