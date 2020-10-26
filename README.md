@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<!--
-**Rocyan4/Rocyan4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formado em Engenharia de Produção, comecei minha jornada em python em dezembro de 2017
+
+**Entre em contato comigo aqui:
+[linkedin](https://www.linkedin.com/in/rocyanfan/)
 
 ### - 🎓 Engenharia de produção
 
