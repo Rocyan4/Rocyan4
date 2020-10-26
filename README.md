@@ -1,4 +1,4 @@
-### Seja bem-vindo 👋
+### Olá seja bem-vindo !!
 
 Me chamo Rocyan minha jornada em dados iniciou-se quando no último período da faculdade de Engenharia de produção onde durante a matéria de Estatística Aplicada por curiosidade decidir me aprofundar mais no assunto e acabei descobrindo a análise de dados com **Python**. 
 
