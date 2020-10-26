@@ -6,7 +6,7 @@ Nesses últimos anos venho me dedicando a encontrar soluções para problemas at
 
 Além do Python utilizo muito a ferramenta de Self-Service Bi o Power Bi para gerar relatórios e apresentar dashboards para tomadas de decisões.
 
-**Fique a vontade para entrar em contato comigo neste [Link](https://www.linkedin.com/in/rocyanfan/)**
+**Fique à vontade para entrar em contato comigo neste [Link](https://www.linkedin.com/in/rocyanfan/)**
 
 ### - 🎓 Engenharia de produção
 
