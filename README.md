@@ -12,3 +12,8 @@ Além do Python utilizo muito a ferramenta de Self-Service Bi o Power Bi para ge
 
 ### - 📊 Apresentação de dados com técnicas de Storytelling
 
+## Artigos de Ciência de dados
+
+Titanic Challenge [Link](https://github.com/Rocyan4/Data_science/blob/master/Titanic_Challenge.ipynb)
+Wordcloud Personalizada [Link](https://github.com/Rocyan4/Data_science/blob/master/Wordcloud_personalizadas.ipynb)
+
