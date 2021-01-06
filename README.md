@@ -1,6 +1,6 @@
 ### Olá seja bem-vindo !!
 
-Me chamo Rocyan minha jornada em dados iniciou-se no último período da faculdade de Engenharia de produção onde durante a matéria de Estatística Aplicada foi dispertada uma curiosidade no assunto decidir me aprofundar mais, foi ai que acabei descobrindo a análise de dados com **Python** e uma imensidão de novas possibiliades.
+Me chamo Rocyan minha jornada em dados iniciou-se no último período da faculdade de Engenharia de produção onde durante a matéria de Estatística Aplicada foi dispertada uma curiosidade no assunto e então decidi me aprofundar na área, foi então que acabei descobrindo a análise de dados com **Python** e uma imensidão de novas possibiliades.
 
 Nesses últimos anos venho me dedicando a solucionar problemas através de análise de dados procuro apresentar soluçãoes utilizando técnicas de Storytelling e análises estatísticas, buscando sempre apresentar da maneira mais eficaz para o cliente.
 
